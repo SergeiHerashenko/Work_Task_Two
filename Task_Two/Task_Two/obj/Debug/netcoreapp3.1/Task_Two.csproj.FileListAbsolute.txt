@@ -1,0 +1,13 @@
+E:\Test_Work_Uklon\Task_Two\Task_Two\bin\Debug\netcoreapp3.1\Task_Two.exe
+E:\Test_Work_Uklon\Task_Two\Task_Two\bin\Debug\netcoreapp3.1\Task_Two.deps.json
+E:\Test_Work_Uklon\Task_Two\Task_Two\bin\Debug\netcoreapp3.1\Task_Two.runtimeconfig.json
+E:\Test_Work_Uklon\Task_Two\Task_Two\bin\Debug\netcoreapp3.1\Task_Two.runtimeconfig.dev.json
+E:\Test_Work_Uklon\Task_Two\Task_Two\bin\Debug\netcoreapp3.1\Task_Two.dll
+E:\Test_Work_Uklon\Task_Two\Task_Two\bin\Debug\netcoreapp3.1\Task_Two.pdb
+E:\Test_Work_Uklon\Task_Two\Task_Two\obj\Debug\netcoreapp3.1\Task_Two.csprojAssemblyReference.cache
+E:\Test_Work_Uklon\Task_Two\Task_Two\obj\Debug\netcoreapp3.1\Task_Two.AssemblyInfoInputs.cache
+E:\Test_Work_Uklon\Task_Two\Task_Two\obj\Debug\netcoreapp3.1\Task_Two.AssemblyInfo.cs
+E:\Test_Work_Uklon\Task_Two\Task_Two\obj\Debug\netcoreapp3.1\Task_Two.csproj.CoreCompileInputs.cache
+E:\Test_Work_Uklon\Task_Two\Task_Two\obj\Debug\netcoreapp3.1\Task_Two.dll
+E:\Test_Work_Uklon\Task_Two\Task_Two\obj\Debug\netcoreapp3.1\Task_Two.pdb
+E:\Test_Work_Uklon\Task_Two\Task_Two\obj\Debug\netcoreapp3.1\Task_Two.genruntimeconfig.cache

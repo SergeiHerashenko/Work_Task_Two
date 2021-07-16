@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bd28AQJts9Y9xnS7103f+LAlRHsWu+NR394Pytd4TUCtrsSH/1ZsFnzrsaOlAGAYWZO50yizh1rTfZFRpl/rzA==",
+  "success": true,
+  "projectFilePath": "E:\\Test_Work_Uklon\\Task_Two\\Task_Two\\Task_Two.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Сергій Геращенко\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
